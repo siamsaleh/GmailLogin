@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523207000078",
+    "project_id": "fir-1d37b",
+    "storage_bucket": "fir-1d37b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523207000078:android:6d2befb52c2a4151463c5f",
+        "android_client_info": {
+          "package_name": "com.reline.gmaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523207000078-haj3db6oab7h4sjk4ki67t9p1c6golss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reline.gmaillogin",
+            "certificate_hash": "ff18f771768fb4ed60f78803cfc0dda6dee2ca1d"
+          }
+        },
+        {
+          "client_id": "523207000078-n356vstbjacr8jkfiol82comn7bhsrhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mMnuCP1oi3YX3axp67vGe_tVHEXrMZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523207000078-n356vstbjacr8jkfiol82comn7bhsrhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
